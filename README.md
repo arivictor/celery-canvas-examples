@@ -13,7 +13,7 @@ From another terminal call a operation:
 python3 1-single_task.py
 ```
 
-Look at the operation file to see how its implemented# celery-canvas-examples
+Look at the operation file to see how its implemented
 
 ## Notes
 
