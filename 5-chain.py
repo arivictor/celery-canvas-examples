@@ -14,6 +14,7 @@ def main():
     
     Input:              Output:
     [1, 2, 3, 4, 5] ->  25
+    
     """
     items = [1, 2, 3, 4, 5]
     group_chain_task = chain(
